@@ -5,7 +5,7 @@
   "label" : "G3 Annotation Demo",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "G3 Annotation Demo",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://a5dcae4d-9c49-45c3-9709-0d68f70b4c27",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "G3 Annotation Demo",
       "height" : 2479,
       "width" : 2264,
       "images" : [ {
