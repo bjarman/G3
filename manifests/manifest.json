@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://bjarman.github.io/G3/manifests/manifest_g3.json",
+  "@id" : "https://bjarman.github.io/G3/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "G3 Annotation Demo",
   "metadata" : [ ],
