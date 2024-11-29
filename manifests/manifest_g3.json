@@ -35,7 +35,7 @@
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
             "@id" : "https://bjarman.github.io/G3/images/NIJAIGTACIUHWOLJLRPRHUHH",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "level2"
           },
           "height" : 2479,
           "width" : 2264
