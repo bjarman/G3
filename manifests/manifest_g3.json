@@ -40,7 +40,12 @@
           "height" : 2479,
           "width" : 2264
         },
-        "on" : "http://a5dcae4d-9c49-45c3-9709-0d68f70b4c27"
+        "on" : "http://a5dcae4d-9c49-45c3-9709-0d68f70b4c27",
+        "otherContent": [{
+  "@id": "https://bjarman.github.io/G3/annotations/NIJAIGTACIUHWOLJLRPRHUHH.json",
+  "@type": "sc:AnnotationList",
+  "label": "G3 annotations"
+}],
       } ],
       "related" : ""
     } ]
