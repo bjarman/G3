@@ -29,7 +29,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://raw.githubusercontent.com/bjarman/G3/refs/heads/main/images/NIJAIGTACIUHWOLJLRPRHUHH/full/full/0/default.jpg",
+          "@id" : "https://bjarman.github.io/K62/images/NIJAIGTACIUHWOLJLRPRHUHH/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
