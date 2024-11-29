@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://bjarman.github.io/G3/manifests/manifest_g3.json",
     "label" : "G3 Annotation Demo"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bjarman.github.io/G3/manifests/manifest",
+    "label" : "G3 Annotation Demo"
   } ]
 }
