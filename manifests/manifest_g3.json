@@ -29,12 +29,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://bjarman.github.io/K62/images/NIJAIGTACIUHWOLJLRPRHUHH/full/full/0/default.jpg",
+          "@id" : "https://bjarman.github.io/G3/images/NIJAIGTACIUHWOLJLRPRHUHH/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://raw.githubusercontent.com/bjarman/G3/refs/heads/main/images/NIJAIGTACIUHWOLJLRPRHUHH",
+            "@id" : "https://bjarman.github.io/G3/images/NIJAIGTACIUHWOLJLRPRHUHH",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 2479,
